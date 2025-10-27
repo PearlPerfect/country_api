@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for country-api-0masrw on 2025-10-26T16:44:33Z
+# fly.toml app configuration file generated for country-api-7mtjyg on 2025-10-27T15:25:17Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'country-api-0masrw'
+app = 'country-api-7mtjyg'
 primary_region = 'iad'
 
 [build]
